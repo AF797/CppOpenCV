@@ -8,5 +8,6 @@
   
 ![2](https://github.com/AF797/CppOpenCV/assets/86837707/06fedaf5-4ab8-45e7-877d-cbe702ebcd8f)
 
-- 추가 종속성
+- 추가 라이브러리 디렉터리
+
 ![3](https://github.com/AF797/CppOpenCV/assets/86837707/666476b4-7f0e-4eec-a1b8-7f356b63b702)
