@@ -1,5 +1,7 @@
 # CppOpenCV
 
+## Visual Studio에서 OpenCV 사용을 위한 환경설정
+
 - 추가 처리 디렉토리
   
 ![1](https://github.com/AF797/CppOpenCV/assets/86837707/d076d5fe-a7c7-4e5c-8418-e0358b1a01d0)
